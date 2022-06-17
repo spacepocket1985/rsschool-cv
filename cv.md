@@ -1,0 +1,43 @@
+# [rs-school](https://rs.school/)
+
+# Alex Klintsevich
+---
+## Contact Info:
+* **Adress:** Belarus, Grodno
+* **E-mail:** space1985pocket@gmail.com
+* **Git:** github.com/spacepocket1985
+* **Discort:** spacePocket
+
+---
+## About myself:
+I want to gain new knowledge and skills. The opportunity to become a front-end developer is a path of personal development. Anyway time goes   fast and *when you think it’s too late, the truth is, it’s still early.* 
+
+---
+## Skills:
+* **HTML**
+* **CSS**
+* **Photoshop**
+* **Windows OS**
+---
+## Code example:
+
+```js
+function multiply(a, b){
+  a * b
+}
+
+```
+---
+## Education and courses:
+* **Yanka Kupala State University of Grodno**
+ * Physics and Technology Faculty
+
+* [HTML for JavaScript Developersl](https://itgid.info/course/html)
+* [Kaspersky Automated Security Awareness Platform](https://k-asap.com/ru/)
+---
+
+## Language:
+1. Belorussian - native speaker.
+2. Russian - speak fluently. 
+3. English - B1, Intermediate. [STREAMLINE](https://str.by)
+4. Polish - basic knowledge. 
