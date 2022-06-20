@@ -33,16 +33,17 @@ function multiply(a, b){
 
 * [HTML for JavaScript Developersl](https://itgid.info/course/html)
 * [Kaspersky Automated Security Awareness Platform](https://k-asap.com/ru/)
----
 
+---
 ## Language:
 1. Belorussian - native speaker.
 2. Russian - speak fluently. 
 3. English - B1, Intermediate. [STREAMLINE](https://str.by)
 4. Polish - basic knowledge. 
----
 
+---
 ## Projects
 * [CV - Markdown](https://spacepocket1985.github.io/rsschool-cv/cv)
+
 ---
 # [rs-school](https://rs.school/)
