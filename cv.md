@@ -21,11 +21,10 @@ I want to gain new knowledge and skills. The opportunity to become a front-end d
 ## Code example:
 
 ```js
-function multiply(a, b){
-  a * b
-}
+console.log('Hello, World!');
 
 ```
+
 ---
 ## Education and courses:
 * **Yanka Kupala State University of Grodno**
