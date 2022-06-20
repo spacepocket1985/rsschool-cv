@@ -1,5 +1,3 @@
-# [rs-school](https://rs.school/)
-
 # Alex Klintsevich
 ---
 ## Contact Info:
@@ -10,7 +8,8 @@
 
 ---
 ## About myself:
-I want to gain new knowledge and skills. The opportunity to become a front-end developer is a path of personal development. Anyway time goes   fast and *when you think it’s too late, the truth is, it’s still early.* 
+I want to gain new knowledge and skills. The opportunity to become a front-end developer is a path of personal development. Anyway time goes   fast and 
+> *when you think it’s too late, the truth is, it’s still early.* 
 
 ---
 ## Skills:
@@ -41,3 +40,9 @@ function multiply(a, b){
 2. Russian - speak fluently. 
 3. English - B1, Intermediate. [STREAMLINE](https://str.by)
 4. Polish - basic knowledge. 
+---
+
+## Projects
+* [CV - Markdown](https://spacepocket1985.github.io/rsschool-cv/cv)
+
+# [rs-school](https://rs.school/)
