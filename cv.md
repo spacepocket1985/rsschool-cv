@@ -44,5 +44,5 @@ function multiply(a, b){
 
 ## Projects
 * [CV - Markdown](https://spacepocket1985.github.io/rsschool-cv/cv)
-
+---
 # [rs-school](https://rs.school/)
